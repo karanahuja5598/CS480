@@ -1,0 +1,24 @@
+Employee Table
+PERSON_NAME,	STREET,	CITY
+Gregory, Broadway, Chicago
+Amy, State, New York
+Matthew, Roosevelt, Chicago
+Theresa, Main, Detroit
+Omar, 102nd, Louisville
+
+Employment Table
+PERSON_NAME,	COMPANY_NAME,	SALARY
+Theresa, Facebook, "15,000"
+Amy, Amazon, "12,000"
+Matthew, Starbucks, "9,000"
+Gregory, American Airline, "9,000"
+Sarah, Amazon, "14,000"
+
+Company Table
+COMPANY_NAME,	City
+First Bank, Miami
+Amazon, Chicago
+Facebook, Detroit
+Starbucks, Chicago
+American Airline, Seattle
+McDonalds, Milwaukee
